@@ -1,4 +1,4 @@
-# eduational_sims_repo
+# educational_sims_repo
 Some physics simulations in Blender for educational purposes
 
 This repository contains simple physics simulations using Blender and its force fields features. The aim is to provide a visual representation and understanding of fundamental physics phenomena through interactive simulations.
